@@ -11,13 +11,22 @@ html,body{
     margin: 0px auto;
 }
 
+.top{
+    width: 100%;
+    height: 25px;
+    position: relative;
+}
+
 .ten{
-    width: 1000px;
     display: inline-block;
     position: absolute;
     text-align: right;
     font-family: 'Dancing Script', cursive;
     font-size: 25px;
-    line-height: 25px;
+    line-height: 20px;
     right: 20px;
+}
+
+.bd-example{
+    margin-top: 25px;
 }
