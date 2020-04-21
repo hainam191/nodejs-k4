@@ -15,11 +15,9 @@ html,body{
     width: 1000px;
     display: inline-block;
     position: absolute;
-    text-align: center;
+    text-align: right;
     font-family: 'Dancing Script', cursive;
     font-size: 25px;
-}
-
-.bd-example{
-    margin-top: 60px;
+    line-height: 25px;
+    right: 20px;
 }
